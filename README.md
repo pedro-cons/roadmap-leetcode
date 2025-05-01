@@ -28,13 +28,13 @@ Here are some useful resources to help you understand the essential data structu
 - [LeetCode - Arrays and Hashing Problems](https://leetcode.com/tag/array/)
 - [Hashing Techniques](https://www.tutorialspoint.com/data_structures_algorithms/hash_table.htm)
 
-### 🔀 Two Pointers
+### 👣 Two Pointers
 - [Two Pointers Algorithm](https://www.geeksforgeeks.org/two-pointers-technique/)
 - [LeetCode - Two Pointers Problems](https://leetcode.com/tag/two-pointers/)
 - [Tutorial on Two Pointers Technique](https://www.programiz.com/dsa/two-pointer-technique)
 - [Two Pointers Algorithm Explanation](https://www.techiedelight.com/two-pointers-technique/)
 
-### 🗂 Stack
+### 🏗️ Stack
 - [Stack Data Structure](https://www.geeksforgeeks.org/stack-data-structure/)
 - [Stack Operations](https://www.tutorialspoint.com/data_structures_algorithms/stack_operations.htm)
 - [LeetCode - Stack Problems](https://leetcode.com/tag/stack/)
@@ -46,7 +46,7 @@ Here are some useful resources to help you understand the essential data structu
 - [LeetCode - Binary Search Problems](https://leetcode.com/tag/binary-search/)
 - [Binary Search Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/binary_search_algorithm.htm)
 
-### ⏳ Sliding Window
+### 🪟 Sliding Window
 - [Sliding Window Technique](https://www.geeksforgeeks.org/window-sliding-technique/)
 - [Sliding Window Algorithm](https://www.programiz.com/dsa/sliding-window-technique)
 - [LeetCode - Sliding Window Problems](https://leetcode.com/tag/sliding-window/)
