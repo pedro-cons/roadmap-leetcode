@@ -22,7 +22,7 @@ Whether you're a beginner looking to get started with coding challenges or an ex
 
 Here are some useful resources to help you understand the essential data structures and algorithms that frequently appear in technical interviews. Each section links to tutorials and articles for deeper learning.
 
-### 🧩 Arrays & Hashing
+### 🔢 Arrays & Hashing
 - [Introduction to Arrays](https://www.geeksforgeeks.org/array-data-structure/)
 - [Hashing in Data Structures](https://www.geeksforgeeks.org/hashing-data-structure/)
 - [LeetCode - Arrays and Hashing Problems](https://leetcode.com/tag/array/)
